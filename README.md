@@ -1,4 +1,4 @@
-AuthMeReloaded-Jenkins
+AuthMeReloaded
 ======================
 
-AuthMeReloaded Maven project
+AuthMeReloaded Maven project - Sponge Branch, need to refactor the whole project >.<
