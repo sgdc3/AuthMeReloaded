@@ -7,12 +7,14 @@ fr.xephi.authme.commands
 fr.xephi.authme.converter
 fr.xephi.authme.datasource
 fr.xephi.authme.events
-fr.xephi.authme.gui
-fr.xephi.authme.gui.screens
 fr.xephi.authme.listener
+fr.xephi.authme.modules
 fr.xephi.authme.plugin.manager
 fr.xephi.authme.process
+fr.xephi.authme.process.join
 fr.xephi.authme.process.login
+fr.xephi.authme.process.logout
+fr.xephi.authme.process.quit
 fr.xephi.authme.process.register
 fr.xephi.authme.security
 fr.xephi.authme.security.crypts
